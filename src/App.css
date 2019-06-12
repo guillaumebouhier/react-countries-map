@@ -11,6 +11,9 @@ body{
   justify-content: center;
 }
 h1 {
+  margin: 30px;
+  font-family: 'Cinzel', serif;
+  font-size: 36px;
   display: flex;
   justify-content: center;
 }
